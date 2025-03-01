@@ -6,6 +6,7 @@ use App\Models\Note;
 use App\Models\User;
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use \Illuminate\Database\Eloquent\Factories\Factory as factory;
 
 class DatabaseSeeder extends Seeder
 {
